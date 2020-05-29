@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EGIMX4p73sPA77RRdiGt9OIiVUHhQCw1YOVQ+7YaKtSmwQXLKJbkZV8V4NqhZ0KGgz78w8nR9hqCYc3x6uUe2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholics\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Main\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
