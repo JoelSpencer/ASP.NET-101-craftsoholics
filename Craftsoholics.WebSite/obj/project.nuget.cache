@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EGIMX4p73sPA77RRdiGt9OIiVUHhQCw1YOVQ+7YaKtSmwQXLKJbkZV8V4NqhZ0KGgz78w8nR9hqCYc3x6uUe2Q==",
+  "dgSpecHash": "l6mj/jiwZm674ZK7XinVMgrpn+5yyO7/Qt4PR1i8O/r652qRljWgBCLBiqAfhLYsU3APucezOkt5p2AkU4S3mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholics\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
+  "projectFilePath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholic-Website\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Main\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

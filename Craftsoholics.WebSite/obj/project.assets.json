@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholics\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
+      "projectUniqueName": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholic-Website\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
       "projectName": "Craftsoholics.WebSite",
-      "projectPath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholics\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
+      "projectPath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholic-Website\\Craftsoholics.WebSite\\Craftsoholics.WebSite.csproj",
       "packagesPath": "C:\\Users\\Main\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholics\\Craftsoholics.WebSite\\obj\\",
+      "outputPath": "C:\\Users\\Main\\Documents\\My Documents\\Projects\\Craftsoholic-Website\\Craftsoholics.WebSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
