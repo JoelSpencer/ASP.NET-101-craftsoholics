@@ -28,6 +28,7 @@ namespace Craftsoholics.WebSite
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddControllers();
             services.AddTransient<JsonFileProductService>();
         }
 
@@ -55,12 +56,13 @@ namespace Craftsoholics.WebSite
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
-                endpoints.MapGet("/products", (context) =>
-                 {
-                     var product = app.ApplicationServices.GetService<JsonFileProductService>().GetProducts();
-                     var json = JsonSerializer.Serialize<IEnumerable<Product>>(product);
-                     return context.Response.WriteAsync(json);
-                 });
+                endpoints.MapControllers();
+                //endpoints.MapGet("/products", (context) =>
+                // {
+                //     var product = app.ApplicationServices.GetService<JsonFileProductService>().GetProducts();
+                //     var json = JsonSerializer.Serialize<IEnumerable<Product>>(product);
+                //     return context.Response.WriteAsync(json);
+                // });
             });
         }
     }
